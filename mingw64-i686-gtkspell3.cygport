@@ -3,7 +3,7 @@ inherit cross gnome2
 
 NAME="mingw64-i686-gtkspell3"
 VERSION=3.0.4
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="GTK3 spell correction widget library for Win32 toolchain"
 DESCRIPTION="GtkSpell provides word-processor-style highlighting and
